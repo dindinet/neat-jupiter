@@ -7,7 +7,7 @@ sections:
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
     actions:
-      - label: Contact Me
+      - label: Tell me about your project
         url: /contact
         style: primary
     image: images/dream_1z59te5hq0i.jpg
