@@ -31,6 +31,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         title_align: center
+        title: SHip
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
