@@ -32,7 +32,7 @@ sections:
         image_align: center
         title_align: center
         title: SHIP
-        image_position: bottom
+        image_position: top
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
