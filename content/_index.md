@@ -32,7 +32,6 @@ sections:
         image_align: center
         title_align: center
         image_position: top
-        title: Shocks
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
