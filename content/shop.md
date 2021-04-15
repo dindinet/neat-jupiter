@@ -27,5 +27,5 @@ layout: page
   height: 100%;
 }
 </style>
-
+<div>
 <iframe src="https://dindinet.square.site/" width="100%" height="100px"></iframe>
