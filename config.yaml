@@ -29,7 +29,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - label: Shop
-        url: /about
+        url: https://dindinet.square.site
         style: link
       - label: About
         url: /about
