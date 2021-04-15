@@ -29,4 +29,4 @@ layout: page
 </style>
 <div>
 <iframe src="https://dindinet.square.site/" width="100%" height="100px"></iframe>
-<?div>
+</div>
