@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Shoppe
 seo:
   title: ''
   description: ''
