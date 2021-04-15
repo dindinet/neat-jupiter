@@ -28,5 +28,5 @@ layout: page
 }
 </style>
 <div class="xcontainer">
-<iframe class="xresponsive-iframe" src="https://dindinet.square.site/" width="100%" height="1000px"></iframe>
+<iframe class="xresponsive-iframe" src="https://dindinet.square.site/" width="100%" height="1000px" noboarders></iframe>
 </div>
