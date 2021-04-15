@@ -10,4 +10,4 @@ layout: page
 ---
 ## Lorem ipsum
 
-<iframe src="https://dindinet.square.site/"></iframe>
+<iframe src="https://dindinet.square.site/" width="" height=""></iframe>
